@@ -1,5 +1,25 @@
+<div align="center">
+  <img height="220" src="https://i.postimg.cc/W36khBK0/Jubayer.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Jubayer Hossain</h1>
-<h3 align="center">a MERN Stack Developer focused on building clean and practical web applications. I love learning new technologies and turning ideas into real projects.</h3>
+
+###
+
+<h3 align="left">👩‍💻  About Me <br><br>a MERN Stack Developer focused on building clean and practical web applications. I love learning new technologies and turning ideas into real projects</h3>
+
+###
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayer726&label=Profile%20views&color=0e75b6&style=flat" alt="jubayer726" /> </p>
 
