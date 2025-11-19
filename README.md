@@ -51,5 +51,5 @@
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawserbappy1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawserbappy1&show_icons=true&theme=transparent&hide_border=true&cache_seconds=7200) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawserbappy1&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer726&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayer726&show_icons=true&theme=transparent&hide_border=true&cache_seconds=7200) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jubayer726&theme=transparent&hide_border=true) |
 
