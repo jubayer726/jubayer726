@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- <img height="220" src="https://i.postimg.cc/W36khBK0/Jubayer.jpg"  /> -->
-  <img height="220" src="https://i.postimg.cc/BZMSVpyg/coverphoto.jpg"  />
+  <img height="220" src="https://i.postimg.cc/6pwN6GDQ/coverphoto.jpg"  />
 </div>
 
 ###
