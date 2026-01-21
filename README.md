@@ -20,7 +20,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://my-portfolio-sooty-alpha-20.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://jubayer-portfolio-seven.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:jubayerahmed726@gmail.com" target="_blank">📧 Email</a> •
   <a href="https://www.linkedin.com/in/jubayer-hossain1/" target="_blank">💼 LinkedIn</a>
 </p>
